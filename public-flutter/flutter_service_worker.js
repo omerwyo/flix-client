@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "32afd0b2100f417069212ac2a902c6aa",
-"index.html": "767a5442ed550a714fcc503653606d66",
-"/": "767a5442ed550a714fcc503653606d66",
-"main.dart.js": "bac11806c7539a617e07fb3942f3290d",
-"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
+"index.html": "9b6677f5985cc9459cd32f5cbe514cd7",
+"/": "9b6677f5985cc9459cd32f5cbe514cd7",
+"main.dart.js": "c867a4405a0e7ef8798aab2150d579c9",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -24,11 +23,7 @@ const RESOURCES = {
 "assets/assets/images/netflix.png": "08e64b2e73b4210f4b66450f3503dfac",
 "assets/assets/images/logo.png": "5315be9d0a7602fb12a0ad4c2e3006e9",
 "assets/assets/icons/home.svg": "c39e3557011739f6b5230009384167b4",
-"assets/assets/icons/collections.svg": "c6c4b476c182e82c27de60cedf47f42b",
-"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
+"assets/assets/icons/collections.svg": "c6c4b476c182e82c27de60cedf47f42b"
 };
 
 // The application shell files that are downloaded before a service worker can

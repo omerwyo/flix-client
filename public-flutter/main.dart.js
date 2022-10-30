@@ -39781,14 +39781,14 @@ A.Xh.prototype={
 zP(a,b,c,d){return this.a46(0,b,c,d)},
 a46(a,b,c,d){var s=0,r=A.a2(t.Wd),q,p=this,o
 var $async$zP=A.a3(function(e,f){if(e===1)return A.a_(f,r)
-while(true)$async$outer:switch(s){case 0:switch(d.a){case 0:q=p.a.Fo("GET",A.az0("http","127.0.0.1:3000","/"+c,b),null)
+while(true)$async$outer:switch(s){case 0:switch(d.a){case 0:q=p.a.Fo("GET",A.az0("https","flix-be.azurewebsites.net","/"+c,b),null)
 s=1
 break $async$outer
 case 1:o=t.N
-q=p.a.lk("POST",A.lY("127.0.0.1:3000/"+c,0,null),A.b_(["Content-Type","application/json"],o,o),B.ar.io(b),null)
+q=p.a.lk("POST",A.lY("flix-be.azurewebsites.net/"+c,0,null),A.b_(["Content-Type","application/json"],o,o),B.ar.io(b),null)
 s=1
 break $async$outer
-case 2:q=p.a.lk("DELETE",A.lY("127.0.0.1:3000/"+c,0,null),null,null,null)
+case 2:q=p.a.lk("DELETE",A.lY("flix-be.azurewebsites.net/"+c,0,null),null,null,null)
 s=1
 break $async$outer
 default:q=A.L(new A.Iu())
