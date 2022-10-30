@@ -39781,7 +39781,7 @@ A.Xh.prototype={
 zQ(a,b,c,d){return this.a46(0,b,c,d)},
 a46(a,b,c,d){var s=0,r=A.a2(t.Wd),q,p=this,o,n
 var $async$zQ=A.a3(function(e,f){if(e===1)return A.a_(f,r)
-while(true)$async$outer:switch(s){case 0:switch(d.a){case 0:o=A.az0("https","flix-be.azurewebsites.net","/"+c,b)
+while(true)$async$outer:switch(s){case 0:switch(d.a){case 0:o=A.az0("http","flix-be.azurewebsites.net","/"+c,b)
 A.kF(o.gwr())
 q=p.a.Fp("GET",o,null)
 s=1
