@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'flix-omerwyo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FFC8CB7E046A425A998BC86BCD4FF361 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_40388835563B40F1A749D7F4DC653329 }}
           package: .
